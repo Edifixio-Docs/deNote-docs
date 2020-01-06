@@ -1,0 +1,2 @@
+# Home page
+The home page allows users to connect to a project and see the boards. Users must have access to the project first. Only a project administrator can grant access to a user. You have a personal project created automatically on you first login though. Once access is granted, users can see the project and the related client and BU. To access project board, just click on it and you will be redirected to the default board. 
