@@ -1,0 +1,1 @@
+Welcome to the open source documentation of deNote application by Edifixio
