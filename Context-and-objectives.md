@@ -1,5 +1,3 @@
-# deNote - User guide
-
 In Edifixio, people uses to work on different projects managed by different tools. We thought about an application that allow people to collaborate and share project information in one unique tool, and that could be used for scrum meeting, as a virtual paper board. This application could connect to other systems like JIRA or Sales Force and we want it to be fully customizable.
 
 ## deNote - For what?
