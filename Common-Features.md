@@ -2,10 +2,11 @@
 
 # Common Features
 
+## Application navigation
+
 ## Help acces
 
 ## Contact support team
 
 ## Edit profile
 
-## Application navigation

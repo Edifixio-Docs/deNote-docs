@@ -5,7 +5,7 @@
 ## Trial offer
 You can obtain a trial account by requesting it. 
 
-* 30 days trial
+* 10 days trial
 * only one user
 * 10 project max
 * 10 board max by project

@@ -3,7 +3,6 @@
 ![deNote Logo](./assets/images/denote-logo.png)
 
 
-
 Welcome to the open source documentation of deNote application by Edifixio.
 
 # Getting Started
@@ -11,6 +10,8 @@ First time using deNote, you can first read the [context and objective](Context-
 
 
 # General presentation
+deNote is a online with board application, real time responsive, highly customizable, build as an information agregator that ca hand handle multiple projects with muliple boards.
+![deNote Navigation](./assets/images/global-navigation.jpg)
 
 
 # Become a deNote user
@@ -46,6 +47,6 @@ Check out our [FAQ page](FAQ).
 ## Contributing to the documentation
 deNote documentation is a public project, you can fork and propose your modification.
 
-***
+---
 
 [![Edifixio](./assets/images/edifixio-logo.png)](https://www.edifixio.com/)
