@@ -10,7 +10,7 @@ First time using deNote, you can first read the [context and objective](Context-
 
 
 # General presentation
-deNote is a online with board application, real time responsive, highly customizable, build as an information agregator that can handle multiple projects with muliple boards.
+deNote is an online white board application, real time responsive, highly customizable, build as an information agregator that can handle multiple projects with muliple boards.
 ![deNote Navigation](./assets/images/global-navigation.jpg)
 
 
