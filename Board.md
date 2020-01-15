@@ -35,7 +35,7 @@ It is an element aims to represent a real-life post-It. User can set the backgro
 ![sticky post-it](./assets/images/sticky-postit.jpg)
 
 ### Task
-A task is a work item assigned to a user. In DeNote you can set a title, due date, priority, assignment, content and a background color. The content is displayed only when you open the detail popup.
+A task is a work item assigned to a user. In deNote you can set a title, due date, priority, assignment, content and a background color. The content is displayed only when you open the detail popup.
 
 ![sticky task](./assets/images/sticky-task.jpg)
 

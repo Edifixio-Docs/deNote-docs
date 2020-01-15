@@ -6,7 +6,7 @@
 You can obtain a trial account by requesting it. 
 
 * 10 days trial
-* only one user
+* Only one user
 * 10 project max
 * 10 board max by project
 * access to all sticky types
@@ -18,7 +18,7 @@ You can obtain a trial account by requesting it.
 * Access only to basic sticky types
 
 ## Premium offer
-* unlimited users
+* Unlimited users
 * 250 Project max
 * 50 board max by projects
 * Access to all sticky types
