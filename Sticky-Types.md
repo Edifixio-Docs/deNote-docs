@@ -2,7 +2,7 @@
 
 # Sticky types
 
-## Sample Note
+## Simple Note
 It is an element aims to represent a real-life post-It. User can set the background color, the text and a size. 
 
 ![sticky post-it](./assets/images/sticky/sticky-postit.png)
@@ -55,7 +55,7 @@ A tooltip is also available on it
 
 ## Notebook
 
-This is a multi pager sticky, you can add entry by using *+* icone and move to older entries with the arrow
+This is a multi pager sticky, you can add entry by using *+* icone and move to older entries with the arrows
 
 ![sticky notebook](./assets/images/sticky/sticky-notebook.png)
 
