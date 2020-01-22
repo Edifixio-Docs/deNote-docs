@@ -14,15 +14,15 @@ First time using deNote, you can first read the [context and objective](Context-
 
 
 # General presentation
-deNote is an online white board application, real time responsive, highly customizable, build as an information agregator that can handle multiple projects with muliple boards.
+deNote is an online white board application, real time responsive, highly customizable, built as an information agregator that can handle multiple projects with muliple boards.
 ![deNote Navigation](./assets/images/global-navigation.jpg)
 
 
 # Become a deNote user
-To use denote you have to purchase a subscription, please contact us to see the details.
+To use denote, you have to purchase a subscription, please contact us to see the details.
 
 # Offer level
-Multiple offer level are available depending of your need and your budget.
+Multiple offer levels are available depending on your needs and your budget.
 Check out our [Offer details page](Offer-Detail).
 
 
