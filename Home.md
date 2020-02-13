@@ -6,7 +6,7 @@
 Welcome to the open source documentation of deNote application by Edifixio.
 
 # Getting Started
-First time using deNote, you can first read the [context and objective](Context-and-objectives) of this application or directly jump in on how to use [deNote boards](Board)!
+First time using deNote, you can first read the [context and objective](context-and-objectives) of this application or directly jump in on how to use [deNote boards](board)!
 * [Create my user](new-user)
 * [First step as board user](new-project-user)
 * [First step as board admin](new-project-admin)
@@ -23,26 +23,26 @@ To use denote, you have to purchase a subscription, please contact us to see the
 
 # Offer level
 Multiple offer levels are available depending on your needs and your budget.
-Check out our [Offer details page](Offer-Detail).
+Check out our [Offer details page](offer-detail).
 
 
 # Using deNote
 
 ## Roles
 
-Check out our [Role details page](Roles).
+Check out our [Role details page](roles).
 
 ## Organization
 
-Check out our [denote organization page](Organization).
+Check out our [denote organization page](organization).
 
 ## Common features
 
-Check out our [common feature page](Common-Features).
+Check out our [common feature page](common-features).
 
-## Sticky types
+## Sticky
 
-Check out our [sticky type page](Sticky-Types).
+Check out our [sticky type page](sticky-types) and our [sitcky side menu action page](sticky-side-menu)
 
 # FAQ
 
