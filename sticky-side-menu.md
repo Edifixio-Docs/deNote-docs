@@ -35,7 +35,7 @@ You can manage different levels of depth for a sticky. When you move a sticky, i
 ### Delete
 You can delete a sticky by clicking on delete button.
 
-⚠️This action cannot be undone.
+**&#x26A0; This action cannot be undone.**
 
 ![duplicate](./assets/images/sticky-side-menu\delete.png)
 
