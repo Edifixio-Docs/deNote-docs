@@ -13,3 +13,4 @@ A user has the viewer’s role plus the possibility to perform actions on sticki
 
 ## Project Viever or Viewer
 A viewer can only see a board and the live updates of stickies. he can’t perform any actions or updates.
+

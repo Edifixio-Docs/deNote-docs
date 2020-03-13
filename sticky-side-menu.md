@@ -35,3 +35,4 @@ You can delete a sticky by clicking on delete button.
 ### ![move](./assets/images/sticky-side-menu\move.png) Move to another board
 You can move a sticky to another board you have access to by  clicking on move button. The sticky will be removed from the actual board and put on the new one with the sames properties
 
+

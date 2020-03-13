@@ -22,3 +22,4 @@ You can obtain a trial account by requesting it.
 * 250 projects max
 * 50 boards max by projects
 * Access to all sticky types
+
