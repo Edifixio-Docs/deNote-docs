@@ -66,16 +66,29 @@ This sticky display a map with the location shared by users. IP location estimat
 ![sticky geolocation](./assets/images/sticky/sticky-geolocation.png)
 
 ## Recognition
+For advanced members only
 
 ## Export to picture
+In progess
 
 ## Leave Sticky
 N/A
 
 # Features
 
-## Poker Planning
+## ![sticky geolocation](./assets/images/feature/poker-planning.png) Poker Planning
 
-## Search (in factory)
+As a part of methodology, you can use the poker planning to estimate the complexity of a task.
 
-.
+By clicking on the poker planning button, you will open a poker play for the current connected users.
+![sticky geolocation](./assets/images/screen-shots/poker-planning.png)
+
+Each user can choose his estimation, when all user have chosen, all card are dsplayed with the choosen values.
+
+You can force the result by clicking on Display (even if some user haven't choose) 
+
+
+## ![sticky geolocation](./assets/images/feature/search.png)  Search (in factory)
+
+.You can search a specific sticky using the search funcionnality.
+Current version only allow search on jira key comming from the jira factory.

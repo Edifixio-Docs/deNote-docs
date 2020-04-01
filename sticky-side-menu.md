@@ -20,10 +20,9 @@ You can duplicate an existing sticky by clicking duplicate button. This will mak
 
 
 
-### sticky-side-menu\put-in-background.png) Put in background
+### ![duplicate](./assets/images/sticky-side-menu\put-in-background.png) Put in background
 You can manage different levels of depth for a sticky. When you move a sticky, it is automatically put in the front. You can click on put in background button to put it in background.
 
-![duplicate](./assets/images/
 
 ### ![duplicate](./assets/images/sticky-side-menu\delete.png) Delete 
 **&#x26A0; This action cannot be undone.**
