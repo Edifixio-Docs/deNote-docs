@@ -30,3 +30,5 @@ You must add at least one board.
 ![Add from template](./assets/images/new-project-admin/add-board-from-template.png).
 
 Once boards are created, you can jump into and modify them. Remember to lock the stickies you want to use as board design.
+
+You can change the orders of the board at any time in the project administration page.

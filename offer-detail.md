@@ -23,3 +23,7 @@ You can obtain a trial account by requesting it.
 * 50 boards max by projects
 * Access to all sticky types
 
+## Tarif and condition of use
+
+contact us.
+

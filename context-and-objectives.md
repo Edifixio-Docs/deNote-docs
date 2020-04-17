@@ -1,3 +1,5 @@
+![deNote Logo](./assets/images/denote-logo.png)
+
 # Context and objectives
 
 In Edifixio, people uses to work on several projects managed by different tools. We wanted an application which allow people to collaborate and share project information in one unique tool, and which could be used for scrum meeting, as a virtual paper board. 
@@ -14,8 +16,8 @@ People can collaborate on multiple projects by separating sticky elements in dif
 ## Concepts
 ### BIlling Units, Clients, Projects
 People working of several projects must have a classification in order to organize their boards. deNote has a 3-levels hierarchy.
-First level is Business unit (BU). It represents a unit or practice in a company.
-Second level is Client. It represents the final client people work for.
+First level is Billing unit (BU). It represents a unit or a company.
+Second level is Client. It represents a gathering of project within the same perimeter.
 Third level is project. It’s the last level of the hierarchy containing the boards. Rights and accesses are managed in that level.
 
 ### Boards and stickies

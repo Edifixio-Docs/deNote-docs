@@ -20,3 +20,5 @@ In each project you can have one or many boards. A board is basically a virtual 
 
 Each user associated with a project can see and contribute to a board (regarding his access level), by creating moving, updating [stickies](sticky-types)
 
+![navigation](./assets/images/screen-shots/project-navigation.png)
+
