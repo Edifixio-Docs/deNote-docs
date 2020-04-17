@@ -81,7 +81,7 @@ N/A
 As a part of methodology, you can use the poker planning to estimate the complexity of a task.
 
 By clicking on the poker planning button, you will open a poker play for the current connected users.
-![sticky geolocation](./assets/images/screen-shots/poker-planning.png)
+![sticky geolocation](./assets/images/feature/poker-planning-1.png)
 
 Each user can choose his estimation, when all user have chosen, all card are dsplayed with the choosen values.
 

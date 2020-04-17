@@ -8,7 +8,7 @@ There are several actions you can perform on a sticky. Most of them are accessib
 ### ![icon magnifying glass](./assets/images/sticky-side-menu\view.png) Show details
 All sticky properties are not necessary displayed on the board. To see those extra properties, you must open the detail popup by clicking on *Details*.
 
-### ![lock](./assets/images/sticky-side-menu\lock.png) ![unlock](./assets/images/sticky-side-menu\unlock.png) Lock / unlock **(Project administrator only)**
+### ![lock](./assets/images/sticky-side-menu\lock.png) ![unlock](./assets/images/sticky-side-menu\unlock.png) Lock / unlock (Project administrator only)
 This action is accessible only for project’s administrators. This will allow them to lock a sticky on the board by clicking on the lock button. A locked sticky can’t be updated or moved. 
 You can re-enable move and update by unlocking it.
 
@@ -25,10 +25,10 @@ You can manage different levels of depth for a sticky. When you move a sticky, i
 
 
 ### ![duplicate](./assets/images/sticky-side-menu\delete.png) Delete 
+
 **&#x26A0; This action cannot be undone.**
 
 You can delete a sticky by clicking on delete button.
-
 
 
 ### ![move](./assets/images/sticky-side-menu\move.png) Move to another board
