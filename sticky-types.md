@@ -81,14 +81,18 @@ N/A
 As a part of methodology, you can use the poker planning to estimate the complexity of a task.
 
 By clicking on the poker planning button, you will open a poker play for the current connected users.
-![sticky geolocation](./assets/images/feature/poker-planning-1.png)
+![sticky geolocation](./assets/images/feature/poker-planning-01.png)
 
-Each user can choose his estimation, when all user have chosen, all card are dsplayed with the choosen values.
+Each user can choose his estimation
+![sticky geolocation](./assets/images/feature/poker-planning-02.png)
+
+ when all user have chosen, all card are dsplayed with the choosen values. A sum up with the number of choices is dyslayed on the cards.
+ ![sticky geolocation](./assets/images/feature/poker-planning-03.png)
 
 You can force the result by clicking on Display (even if some user haven't choose) 
 
 
 ## ![sticky geolocation](./assets/images/feature/search.png)  Search (in factory)
 
-.You can search a specific sticky using the search funcionnality.
+You can search a specific sticky using the search funcionnality.
 Current version only allow search on jira key comming from the jira factory.
