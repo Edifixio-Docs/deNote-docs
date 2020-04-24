@@ -50,3 +50,4 @@ A viewer can only see a board and the live updates of stickies. he can’t perfo
  
  ### He cannot
  * Edit stickies
+
