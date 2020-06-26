@@ -48,6 +48,10 @@ Check out our [sticky type page](sticky-types) and our [sitcky side menu action 
 
 Check out our [FAQ page](FAQ).
 
+# Help and Support
+
+Check out our [Help and Support page](help-support).
+
 ## Contributing to the documentation
 deNote documentation is a public project, you can fork and propose your modification.
 

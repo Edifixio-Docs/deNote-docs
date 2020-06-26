@@ -22,25 +22,13 @@ You can also choose direclty the board ou want to connect within the projec drop
 In the profil edit page you can:
 * Update your display name
 * Choose to recieve or not the news letters
-* Edt your thumbnail image
+* Edit your thumbnail image
 
 ![Edit user](./assets/images/common-features/edit-user.png)
 
-## Help acces
-
-You can access to the documentation with the link below.
-
-![Edit user access](./assets/images/common-features/doc-access.png)
-
-The documentation is open source, feel free to contribue!
-
-## Contact support team
-
-![Edit user access](./assets/images/common-features/contact-us.png)
-
 ## Invite someone to test the application
 
-You can invite other people to test the application for free and for a limited period of time.
+You can invite other people to test the application for free for a limited period of time.
 
 ![Edit user access](./assets/images/common-features/invite-trial.png)
 
