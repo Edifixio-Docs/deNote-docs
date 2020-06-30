@@ -15,13 +15,13 @@ Click on the project name. This will open the project admin page.
 
 ![Project admin page](./assets/images/new-project-admin/project-page-admin-start.png)
 
-### Setup the project
+## Setup the project
 
 * Choose the name of you project.
 * Choose the picture associated to your project.
 * You can add people you want to share your project with, (using their email address)
 
-### Add Boards
+## Add Boards
 You must add at least one board.
 
 * click on **Add** button to define the name and the size of the board.
