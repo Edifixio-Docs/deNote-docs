@@ -1,7 +1,5 @@
 
----
 # Organization
----
 
 ## Billing Unit
 

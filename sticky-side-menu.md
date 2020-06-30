@@ -1,7 +1,4 @@
-
----
 # Sticky side menu items
----
 
 There are several actions you can perform on a sticky. Most of them are accessible using the right bar displayed on mouse over. 
 

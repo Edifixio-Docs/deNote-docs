@@ -1,7 +1,5 @@
 
----
 # User Creation
----
 
 Create your account using the link in the email you recieve.
 

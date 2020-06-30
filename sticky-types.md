@@ -1,7 +1,5 @@
 
----
 # Sticky types
----
 
 ## Simple Note
 It's an element aims to represent a real-life post-It. You can set background color, text and size. 

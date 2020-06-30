@@ -1,7 +1,5 @@
 
----
 # Help and Support
-----
 
 ## Contact support team within the application
 

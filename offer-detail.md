@@ -1,7 +1,6 @@
 
----
 # Offer Detail
----
+
 
 ## Trial offer
 * 30 days trial 

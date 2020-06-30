@@ -1,7 +1,5 @@
 
----
 # Common Features
----
 
 Once connected in denote, you join on the landing page.
 In the first line ou have the last project you look on.

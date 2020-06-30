@@ -1,7 +1,5 @@
-
----
 # Context and objectives
----
+
 
 In Edifixio, people uses to work on several projects managed by different tools. We wanted an application which allow people to collaborate and share project information in one unique tool, and which could be used for scrum meeting, as a virtual paper board. 
 

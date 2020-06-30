@@ -1,7 +1,5 @@
 
----
 # First access to project as project Admin
----
 
 Once your account is created, you can log in. You will jump to the landing page.
 

@@ -1,7 +1,4 @@
-
----
 # Jira Factory configuration
----
 
 
 Step 1: build the list in jira :
