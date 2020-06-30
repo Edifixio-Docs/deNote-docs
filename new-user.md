@@ -1,6 +1,8 @@
-![deNote Logo](./assets/images/denote-logo.png)
+[![deNote Logo](./assets/images/denote-logo.png)](Home)
 
+---
 # User Creation
+---
 
 Create your account using the link in the email you recieve.
 

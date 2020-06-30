@@ -1,6 +1,8 @@
-![deNote Logo](./assets/images/denote-logo.png)
+[![deNote Logo](./assets/images/denote-logo.png)](Home)
 
+---
 # Sticky side menu items
+---
 
 There are several actions you can perform on a sticky. Most of them are accessible using the right bar displayed on mouse over. 
 

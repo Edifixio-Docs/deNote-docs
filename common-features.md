@@ -1,6 +1,8 @@
-![deNote Logo](./assets/images/denote-logo.png)
+[![deNote Logo](./assets/images/denote-logo.png)](Home)
 
+---
 # Common Features
+---
 
 Once connected in denote, you join on the landing page.
 In the first line ou have the last project you look on.
@@ -31,6 +33,5 @@ In the profil edit page you can:
 You can invite other people to test the application for free for a limited period of time.
 
 ![Edit user access](./assets/images/common-features/invite-trial.png)
-
 
 

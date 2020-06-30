@@ -1,6 +1,8 @@
-![deNote Logo](./assets/images/denote-logo.png)
+[![deNote Logo](./assets/images/denote-logo.png)](Home)
 
+---
 # Help and Support
+----
 
 ## Contact support team
 

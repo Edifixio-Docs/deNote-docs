@@ -1,6 +1,8 @@
-![deNote Logo](./assets/images/denote-logo.png)
+[![deNote Logo](./assets/images/denote-logo.png)](Home)
 
+---
 # Offer Detail
+---
 
 ## Trial offer
 * 30 days trial 
@@ -23,5 +25,5 @@
 
 ## Tarif and condition of use
 
-Or to get a trial: contact us.
+Or to get a trial: contact us at  denote@edifixio.com
 

@@ -1,6 +1,9 @@
-![deNote Logo](./assets/images/denote-logo.png)
+[![deNote Logo](./assets/images/denote-logo.png)](Home)
 
+---
 # Jira Factory configuration
+---
+
 
 Step 1: build the list in jira :
 ![sticky rectangle](./assets/images/sticky/jira-factory/jira-step_1.jpg)

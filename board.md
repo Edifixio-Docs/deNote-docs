@@ -1,7 +1,9 @@
-![deNote Logo](./assets/images/denote-logo.png)
+[![deNote Logo](./assets/images/denote-logo.png)](Home)
 
-
+---
 # Boards
+---
+
 In this section, we will focus on the actions users can perform on stickies. It requires a role of `User` or `Board Admin`.
 
 ## Creation of a sticky

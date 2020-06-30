@@ -1,6 +1,8 @@
-![deNote Logo](./assets/images/denote-logo.png)
+[![deNote Logo](./assets/images/denote-logo.png)](Home)
 
+---
 # First access to project as Billing Unit Admin
+---
 
 Once your account is created you are redirect to the deNote landing page.
 

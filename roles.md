@@ -1,6 +1,8 @@
-![deNote Logo](./assets/images/denote-logo.png)
+[![deNote Logo](./assets/images/denote-logo.png)](Home)
 
+---
 # Roles
+---
 
 ## Billing unit Admin
  A BU admin has the right to organise the Billing Unit, by creating Client sections and projects. He is able to set a Project admin for a project. He cannot access to the content of a project unless he is member of it. The Biling Unit admin rôle is defined for each Billing Unit
