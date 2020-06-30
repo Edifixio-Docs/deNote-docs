@@ -7,7 +7,7 @@
 Once connected in denote, you join on the landing page.
 In the first line ou have the last project you look on.
 
-## Application navigation
+### Application navigation
 
 You can directly go to the last board you see in a project by clicking on the project name.
 
@@ -17,7 +17,7 @@ You can also choose direclty the board ou want to connect within the projec drop
 
 ![lading page](./assets/images/common-features/global-nav-02.png)
 
-## Edit profile
+### Edit profile
 
 ![Edit user access](./assets/images/common-features/edit-user-access.png)
 
@@ -28,7 +28,7 @@ In the profil edit page you can:
 
 ![Edit user](./assets/images/common-features/edit-user.png)
 
-## Invite someone to test the application
+### Invite someone to test the application
 
 You can invite other people to test the application for free for a limited period of time.
 

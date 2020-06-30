@@ -4,18 +4,18 @@
 # Help and Support
 ----
 
-## Contact support team
+### Contact support team
 
-### Within the application
+#### Within the application
 
 You can contact us throw the contact-us section within the application homepage
 
 ![Edit user access](./assets/images/common-features/contact-us.png)
 
-### by email : 
+#### By email : 
 denote@edifixio.com
 
-## Application documentation
+### Application documentation
 
 You can access to the documentation with the link below.
 
@@ -23,7 +23,7 @@ You can access to the documentation with the link below.
 
 The documentation is open source, feel free to contribue!
 
-## Application FAQ
+### Application FAQ
 
 Check out our [FAQ page](FAQ).
 
