@@ -31,7 +31,8 @@ body {
 }
 .content{
 	flex: auto;
-	overflow: auto;
+	overflow-y: auto;
+	overflow-x: hidden;
 	/* background-color: azure; */
 }
 .futur{
@@ -73,4 +74,8 @@ p {
 	margin-block-end: 1em;
 	margin-inline-start: 0px;
 	margin-inline-end: 0px;
+}
+
+img {
+	max-width: 90%;
 }
