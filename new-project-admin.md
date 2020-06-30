@@ -1,4 +1,3 @@
-[![deNote Logo](./assets/images/denote-logo.png)](Home)
 
 ---
 # First access to project as project Admin

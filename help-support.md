@@ -1,4 +1,3 @@
-[![deNote Logo](./assets/images/denote-logo.png)](Home)
 
 ---
 # Help and Support
@@ -26,8 +25,5 @@ The documentation is open source, feel free to contribue!
 
 Check out our [FAQ page](FAQ).
 
----
-
-[![Edifixio](./assets/images/edifixio-logo.png)](https://www.edifixio.com/)
 
 

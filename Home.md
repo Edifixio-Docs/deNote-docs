@@ -1,4 +1,3 @@
-[![deNote Logo](./assets/images/denote-logo.png)](Home)
 
 ---
 # deNote online documentation
@@ -56,7 +55,3 @@ Check out our [Help and Support page](help-support).
 ### Contributing to the documentation
 deNote documentation is a public project, you can fork and propose your modification.
 
-
----
-
-[![Edifixio](./assets/images/edifixio-logo.png)](https://www.edifixio.com/)

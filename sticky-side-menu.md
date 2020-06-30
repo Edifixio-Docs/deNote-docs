@@ -1,4 +1,3 @@
-[![deNote Logo](./assets/images/denote-logo.png)](Home)
 
 ---
 # Sticky side menu items
