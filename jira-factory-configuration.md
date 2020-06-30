@@ -2,10 +2,12 @@
 
 
 Step 1: build the list in jira :
+
 ![sticky rectangle](./assets/images/sticky/jira-factory/jira-step_1.jpg)
  
 
 Step 2: click on advanced to have the request in rest mode :
+
  ![sticky rectangle](./assets/images/sticky/jira-factory/jira-step_2.jpg)
 
 

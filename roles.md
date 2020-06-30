@@ -40,16 +40,16 @@ A user has the viewer’s role plus the possibility to perform actions on sticki
  * Access all the project boards
  * Add/update sticky content
  
- #### He cannot
+ ### He cannot
  * Edit locked stickies
 
 
-### Project Viever or Viewer
+## Project Viever or Viewer
 A viewer can only see a board and the live updates of stickies. he can’t perform any actions or updates.
 
- #### He Can
+### He Can
  * View all the project boards
  
- #### He cannot
+### He cannot
  * Edit stickies
 

@@ -31,4 +31,3 @@ You can invite other people to test the application for free for a limited perio
 
 ![Edit user access](./assets/images/common-features/invite-trial.png)
 
-

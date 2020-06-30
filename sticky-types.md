@@ -65,13 +65,9 @@ This sticky display a map with the location shared by users. IP location estimat
 ![sticky geolocation](./assets/images/sticky/sticky-geolocation.png)
 
 ## Recognition
-For advanced members only
 
-## Export to picture
-In progess
+    For Premium members only
 
-## Leave Sticky
-N/A
 
 # Features
 

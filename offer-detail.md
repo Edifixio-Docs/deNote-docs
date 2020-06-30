@@ -23,5 +23,8 @@
 
 ## Tarif and condition of use
 
-Or to get a trial: contact us at  denote@edifixio.com
+contact us at  denote@edifixio.com
 
+## Ask for a trial
+
+contact us at  denote@edifixio.com
