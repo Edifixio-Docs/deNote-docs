@@ -1,15 +1,15 @@
 
 # Help and Support
 
+## Contact support team by email
+
+denote@edifixio.com
+
 ## Contact support team within the application
 
 You can contact us throw the contact-us section within the application homepage
 
 ![Edit user access](./assets/images/common-features/contact-us.png)
-
-## Contact support team by email
-
-denote@edifixio.com
 
 ## Application documentation
 
