@@ -43,7 +43,7 @@ You can temporary archive a ticket using a functionality called Warp zone. The w
 
 ![sticky mood](./assets/images/sticky/sticky-jira-factory.png)
 
-Check out our [Jira Factory configuration page](Jira-factory-configuration).
+Check out our [Jira Factory configuration page](jira-factory-configuration).
 
 ## Url Link
 
@@ -76,12 +76,15 @@ This sticky display a map with the location shared by users. IP location estimat
 As a part of methodology, you can use the poker planning to estimate the complexity of a task.
 
 By clicking on the poker planning button, you will open a poker play for the current connected users.
+
 ![sticky geolocation](./assets/images/feature/poker-planning-01.png)
 
 Each user can choose his estimation
+
 ![sticky geolocation](./assets/images/feature/poker-planning-02.png)
 
  when all user have chosen, all card are dsplayed with the choosen values. A sum up with the number of choices is dyslayed on the cards.
+
  ![sticky geolocation](./assets/images/feature/poker-planning-03.png)
 
 You can force the result by clicking on Display (even if some user haven't choose) 

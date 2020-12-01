@@ -14,7 +14,7 @@ body {
 }
 
 .header {
-   flex: 0 0 100px;
+   flex: 0 0 5px;
    /* background-color: aquamarine; */
 }
 
@@ -26,7 +26,7 @@ body {
 }
 
 .menu{
-	flex: 0 0 20%;
+	flex: 0 0 10%;
 	/* background-color: rgb(127, 197, 255); */
 }
 .content{
@@ -36,12 +36,12 @@ body {
 	/* background-color: azure; */
 }
 .futur{
-	flex: 0 0 20%;
+	flex: 0 0 5%;
 	/* background-color:blue; */
 }
 
 .footer {
-	flex: 0 0 90px;
+	flex: 0 0 30px;
 	/* background-color:chartreuse; */
 }
 
@@ -77,5 +77,5 @@ p {
 }
 
 img {
-	max-width: 90%;
+	max-height: 30px;
 }
