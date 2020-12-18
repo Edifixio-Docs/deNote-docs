@@ -19,6 +19,10 @@ You can access to the documentation with the link below.
 
 The documentation is open source, feel free to contribue!
 
+## Purchase application
+
+ On [Microsoft app source](https://appsource.microsoft.com/en-us/product/web-apps/edifixio-4559648.denote_classic) for more details.
+
 ## Application FAQ
 
 Check out our [FAQ page](FAQ).

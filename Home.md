@@ -17,7 +17,13 @@ deNote is an online white board application, real time responsive, highly custom
 
 
 ## Become a deNote user
-To use denote, you have to purchase a subscription, please contact us to see the details.
+To use denote, you have to purchase a subscription:
+
+* deNote classic
+* deNote for Team
+
+ contact us on [Microsoft app source](https://appsource.microsoft.com/en-us/product/web-apps/edifixio-4559648.denote_classic) for more details.
+
 
 ## Offer level
 Multiple offer levels are available depending on your needs and your budget.
